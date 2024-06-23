@@ -1,3 +1,3 @@
 # repo-demo
 This is my first repository file.<br>
-Author-Janvi Bhikadiya
+Author-Janvi Bhikadiya(Apna College)
